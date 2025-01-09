@@ -6,5 +6,5 @@
     "pkg_django_root":"rest_framework",
     "pkg_file":"djb_pkg_api-v.0.1.1-alpha",
     "pkg_dependencies":["PyJWT"],
-    "pkg_hash": "fe88930d2f18385a9823fce590a065b2"
+    "pkg_hash": "f204458d3c8618b72ff858480b698f01"
 }
