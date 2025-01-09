@@ -1,7 +1,7 @@
 {
     "pkg_name":"api",
     "pkg_name_root":"pkg_app_api",
-    "pkg_version": "v.0.1.0-alpha",
+    "pkg_version": "v0.1.0-alpha",
     "pkg_desc":"DjangoBox API Application. Includes default Django rest_framework with included login/logout/register functions.",
     "pkg_django_root":"rest_framework",
     "pkg_file":"djb_pkg_api-v.0.1.0-alpha",
